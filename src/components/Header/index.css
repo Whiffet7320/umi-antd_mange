@@ -1,0 +1,12 @@
+.header{
+  color: #fff;
+}
+.header h1{
+  color: inherit;
+  font-size: 1.5rem;
+}
+.header p{
+  display: inline-block;
+  color: inherit;
+  margin: 0 10px;
+}

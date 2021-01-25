@@ -1,0 +1,17 @@
+.loginFrom{
+  position: fixed;
+  top: 40%;
+  left: 40%;
+}
+.item{
+  display: flex;
+  margin: 10px 0;
+}
+.button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button button{
+  cursor: pointer;
+}
